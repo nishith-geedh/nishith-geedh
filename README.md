@@ -1,15 +1,16 @@
 <h2 align="center">Heya! I'm Nishith, and I am an <strong>AWS Cloud Engineer</strong> 🚀</h2>
 
 <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.logigroup.com%2Fimages%2FLogo_aws.gif&f=1&nofb=1&ipt=df8fc4b5f879f7cf3c93ec5110abea6716f9b658061c30c5d5faf6cac41ace70" height="100" alt="AWS animated logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="80" alt="AWS logo" />
 </div>
 
 ###
 
+<!-- PACMAN CONTRIBUTION GRAPH -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishith-geedh/nishith-geedh/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishith-geedh/nishith-geedh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nishith-geedh/nishith-geedh/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/nishith-geedh/nishith-geedh/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
@@ -71,6 +72,7 @@
 
 <br clear="both">
 
+<!-- Snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/nishith-geedh/nishith-geedh/output/snake.svg" alt="Snake animation" />
 </div>
